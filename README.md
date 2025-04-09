@@ -1,4 +1,12 @@
 # MedBot
+Welcome to the **MedBot Project**! This chatbot is designed to assist users by providing medical information sourced from reliable books and references. It can help answer a variety of medical questions and provide helpful information.
+
+## Features
+
+- **Medical Information Assistance**: The chatbot provides answers to various medical questions.
+- **Easy-to-Use Interface**: User-friendly chatbot interface to ask questions and receive medical guidance.
+- **Comprehensive Knowledge Base**: The bot uses a curated knowledge base of medical books and trusted resources.
+- **Instant Responses**: Get quick and accurate responses to your medical queries.
 
 # How to run?
 ### STEPS:
